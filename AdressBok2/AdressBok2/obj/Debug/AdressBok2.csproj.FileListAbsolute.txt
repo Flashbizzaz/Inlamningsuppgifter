@@ -1,0 +1,10 @@
+C:\Users\elias\source\repos\AdressBok2\AdressBok2\bin\Debug\AdressBok2.exe.config
+C:\Users\elias\source\repos\AdressBok2\AdressBok2\bin\Debug\AdressBok2.exe
+C:\Users\elias\source\repos\AdressBok2\AdressBok2\bin\Debug\AdressBok2.pdb
+C:\Users\elias\source\repos\AdressBok2\AdressBok2\obj\Debug\AdressBok2.csprojResolveAssemblyReference.cache
+C:\Users\elias\source\repos\AdressBok2\AdressBok2\obj\Debug\AdressBok2.Form1.resources
+C:\Users\elias\source\repos\AdressBok2\AdressBok2\obj\Debug\AdressBok2.Properties.Resources.resources
+C:\Users\elias\source\repos\AdressBok2\AdressBok2\obj\Debug\AdressBok2.csproj.GenerateResource.Cache
+C:\Users\elias\source\repos\AdressBok2\AdressBok2\obj\Debug\AdressBok2.csproj.CoreCompileInputs.cache
+C:\Users\elias\source\repos\AdressBok2\AdressBok2\obj\Debug\AdressBok2.exe
+C:\Users\elias\source\repos\AdressBok2\AdressBok2\obj\Debug\AdressBok2.pdb

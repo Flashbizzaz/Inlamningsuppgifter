@@ -1,0 +1,7 @@
+C:\Users\elias\Documents\MinMapp\C#\VisulStudioProjekten\HängaGubbe\HängaGubbeFörsök2\bin\Debug\HängaGubbeFörsök2.exe.config
+C:\Users\elias\Documents\MinMapp\C#\VisulStudioProjekten\HängaGubbe\HängaGubbeFörsök2\bin\Debug\HängaGubbeFörsök2.exe
+C:\Users\elias\Documents\MinMapp\C#\VisulStudioProjekten\HängaGubbe\HängaGubbeFörsök2\bin\Debug\HängaGubbeFörsök2.pdb
+C:\Users\elias\Documents\MinMapp\C#\VisulStudioProjekten\HängaGubbe\HängaGubbeFörsök2\obj\Debug\HängaGubbeFörsök2.csproj.CoreCompileInputs.cache
+C:\Users\elias\Documents\MinMapp\C#\VisulStudioProjekten\HängaGubbe\HängaGubbeFörsök2\obj\Debug\HängaGubbeFörsök2.exe
+C:\Users\elias\Documents\MinMapp\C#\VisulStudioProjekten\HängaGubbe\HängaGubbeFörsök2\obj\Debug\HängaGubbeFörsök2.pdb
+C:\Users\elias\Documents\MinMapp\C#\VisulStudioProjekten\HängaGubbe\HängaGubbeFörsök2\obj\Debug\HängaGubbeFörsök2.csprojResolveAssemblyReference.cache

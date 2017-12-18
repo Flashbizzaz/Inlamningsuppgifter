@@ -1,0 +1,7 @@
+c:\users\elias\source\repos\EliasBank\EliasBank\bin\Debug\EliasBank.exe.config
+c:\users\elias\source\repos\EliasBank\EliasBank\bin\Debug\EliasBank.exe
+c:\users\elias\source\repos\EliasBank\EliasBank\bin\Debug\EliasBank.pdb
+c:\users\elias\source\repos\EliasBank\EliasBank\obj\Debug\EliasBank.csprojResolveAssemblyReference.cache
+c:\users\elias\source\repos\EliasBank\EliasBank\obj\Debug\EliasBank.csproj.CoreCompileInputs.cache
+c:\users\elias\source\repos\EliasBank\EliasBank\obj\Debug\EliasBank.exe
+c:\users\elias\source\repos\EliasBank\EliasBank\obj\Debug\EliasBank.pdb

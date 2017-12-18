@@ -1,0 +1,13 @@
+C:\Users\elias\Documents\MinMapp\C#\VisulStudioProjekten\HängaGubbe\EnkeltSchiffer\bin\Debug\EnkeltSchiffer.exe.config
+C:\Users\elias\Documents\MinMapp\C#\VisulStudioProjekten\HängaGubbe\EnkeltSchiffer\bin\Debug\EnkeltSchiffer.exe
+C:\Users\elias\Documents\MinMapp\C#\VisulStudioProjekten\HängaGubbe\EnkeltSchiffer\bin\Debug\EnkeltSchiffer.pdb
+C:\Users\elias\Documents\MinMapp\C#\VisulStudioProjekten\HängaGubbe\EnkeltSchiffer\obj\Debug\EnkeltSchiffer.csproj.CoreCompileInputs.cache
+C:\Users\elias\Documents\MinMapp\C#\VisulStudioProjekten\HängaGubbe\EnkeltSchiffer\obj\Debug\EnkeltSchiffer.exe
+C:\Users\elias\Documents\MinMapp\C#\VisulStudioProjekten\HängaGubbe\EnkeltSchiffer\obj\Debug\EnkeltSchiffer.pdb
+C:\Users\elias\Documents\MinMapp\C#\VisulStudioProjekten\Inlämningsuppgifter\EnkeltSchiffer\bin\Debug\EnkeltSchiffer.exe.config
+C:\Users\elias\Documents\MinMapp\C#\VisulStudioProjekten\Inlämningsuppgifter\EnkeltSchiffer\bin\Debug\EnkeltSchiffer.exe
+C:\Users\elias\Documents\MinMapp\C#\VisulStudioProjekten\Inlämningsuppgifter\EnkeltSchiffer\bin\Debug\EnkeltSchiffer.pdb
+C:\Users\elias\Documents\MinMapp\C#\VisulStudioProjekten\Inlämningsuppgifter\EnkeltSchiffer\obj\Debug\EnkeltSchiffer.csprojResolveAssemblyReference.cache
+C:\Users\elias\Documents\MinMapp\C#\VisulStudioProjekten\Inlämningsuppgifter\EnkeltSchiffer\obj\Debug\EnkeltSchiffer.csproj.CoreCompileInputs.cache
+C:\Users\elias\Documents\MinMapp\C#\VisulStudioProjekten\Inlämningsuppgifter\EnkeltSchiffer\obj\Debug\EnkeltSchiffer.exe
+C:\Users\elias\Documents\MinMapp\C#\VisulStudioProjekten\Inlämningsuppgifter\EnkeltSchiffer\obj\Debug\EnkeltSchiffer.pdb

@@ -1,0 +1,44 @@
+drop database adressbok
+
+
+Create database Adressbok
+
+use Adressbok
+
+Create Table Kontakt(
+KontaktID int Identity(1,1) Primary key,
+Namn varchar(50),
+Epost varchar(50),
+Telefon varchar(20),
+AdressID int
+FOREIGN KEY (AdressID) REFERENCES Adress(AdressID),
+TypID int
+FOREIGN KEY (TypID) REFERENCES Kontakttyp(TypID)
+)
+
+create table Kontakttyp(
+TypID int Identity(1,1) Primary Key,
+KontaktTypNamn varchar(20)
+)
+
+create Table Adress(
+AdressID int Identity(1,1) Primary key,
+Adress varchar(50),
+Postort varchar(50),
+Postnummer int
+)
+
+select Namn, Epost, Telefon, PostOrt from Kontakt join Adress on Adress.AdressID = Kontakt.AdressID
+
+insert into Kontakttyp (KontaktTypNamn) values ('Personlig kontakt')
+insert into Kontakttyp (KontaktTypNamn) values ('Övrig kontakt')
+insert into Kontakttyp (KontaktTypNamn) values ('Jobb kontakt')
+
+select * from Kontakt;
+select * from adress;
+select * from Kontakttyp;
+
+select Kontakt.Namn, Kontakt.Epost, Kontakt.Telefon, Adress.Adress, Adress.Postort, Adress.Postnummer, Kontakttyp.KontaktTypNamn from kontakt
+join adress on Kontakt.AdressID = Adress.AdressID
+join Kontakttyp on Kontakt.TypID = Kontakttyp.TypID
+order by Kontakt.KontaktID
